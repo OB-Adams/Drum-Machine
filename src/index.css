@@ -57,9 +57,10 @@ button {
   margin-top: 1rem;
   text-align: center;
   color: #f8f8f2;
+  font-family: monospace;
 }
 
 a {
   text-decoration: none;
-  color: #f8f8f2;
+  color: #ffffff;
 }
